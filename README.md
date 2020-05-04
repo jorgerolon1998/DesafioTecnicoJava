@@ -14,3 +14,8 @@ que es un post con dos llaves (usser,password), en la que el valor puede ser el 
 4 - Servicio de modificacion de candidato http://localhost:8080/api/candidatos/update (put con formato del objeto Candidato a modificar)
 
 5 - Servicio de baja de candidato  http://localhost:8080/api/candidatos/delete/{id} (delete con id numero del candidato a eliminar)
+
+
+La copia de la base de datos se encuentra dentro del proyecto en un archivo llamado "dump.sql"
+
+La conexion es de usuario "root" pass "root" la misma puede ser modificada dentro del archivo de configuracion de springboot. 
