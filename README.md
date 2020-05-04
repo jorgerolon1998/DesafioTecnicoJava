@@ -1,7 +1,7 @@
 # DesafioTecnicoJava
 Desafio Tecnico JAVA: El proyecto cuenta con el desarrollo del challenge.
 
-El desarrollo cuenta con una autentucación por medio de JSON WEB TOKEN, consultado el servicio http://localhost:8080/user  ,
+El desarrollo cuenta con una autenticación por medio de JSON WEB TOKEN, consultado el servicio http://localhost:8080/user  ,
 que es un post con dos llaves (usser,password), en la que el valor puede ser el que desee, el mismo devuelve un token para consultar el resto de los servicios.
 
 
